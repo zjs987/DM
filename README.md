@@ -22,4 +22,8 @@ This repository contains the implementation of a scalable method for enhancing s
 ## Usage
 1. Clone the repository to your local machine:
 ```bash
-git clone <repository_url>
+git clone https://github.com/zjs987/DM.git
+
+2. Run the programme
+```bash
+python weibo_plus.py
